@@ -127,6 +127,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/seoul.r11"
+    - label: "Threads"
+      icon: #"/assets/images/threads-logo.svg"
+      url: "https://instagram.com/seoul.r11"
 
 # Site Footer
 footer:
@@ -148,6 +151,9 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/seoul.r11"
+    - label: "Threads"
+      icon:
       url: "https://instagram.com/seoul.r11"
 
 # Reading Files
