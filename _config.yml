@@ -129,7 +129,7 @@ author:
       url: "https://instagram.com/seoul.r11"
     - label: "Threads"
       icon: #"/assets/images/threads-logo.svg"
-      url: "https://instagram.com/seoul.r11"
+      url: "https://www.threads.net/@seoul.r11"
 
 # Site Footer
 footer:
@@ -154,7 +154,7 @@ footer:
       url: "https://instagram.com/seoul.r11"
     - label: "Threads"
       icon:
-      url: "https://instagram.com/seoul.r11"
+      url: "https://www.threads.net/@seoul.r11"
 
 # Reading Files
 include:
